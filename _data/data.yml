@@ -53,7 +53,7 @@ career-profile:
       Fan d'informatique et d'électronique depuis mon plus jeune âge,
       j'ai décidé de transformer ma passion en mon métier !
 education:
-    title: Formations
+    #title: Formations
     - degree: Baccalauréat
       university: Lycée Polyvalent La Briquerie
       time: 2014 - 2016
