@@ -73,25 +73,22 @@ education:
         RIL - Responsable en Ingénierie des Logiciels.
         Bordeaux, Gironde.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Ingénieur en développement logiciels (junior)
+      time: Septembre 2018 - Aujourd'hui
+      company: Cegedim Logiciels Medicaux, Région de Bordeaux (Gironde)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Alternance
+    - role: Développeur logiciels
+      time: Juin 2018 - Juillet 2018
+      company: Sandvik Coromant, Région de Tours (Indre-et-Loire)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
+        CDD de 2 mois à la fin de mon BTS afin de finaliser le projet final en entreprise.
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Stagiaire
+      time: Mai 2017 - Juin 2017
+      company: Groupe LDLC, Thionville (Moselle)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit.
+        Stage permettant de valider ma première année de BTS.
 
 #publications:
 #    title: Publications
@@ -121,15 +118,15 @@ projects:
     assignments:
       - title: Auton'home
         link: "#hook"
-        tagline: "Une maison connectée et intelligente pour un faible budget ! (Niveau Baccalauréat)"
+        tagline: "Une maison connectée et intelligente pour un faible budget !"
 
       - title: Madera
         link: "#"
-        tagline: "Application de gestion des devis destinée à des commerciaux, projet beaucoup plus axé gestion de projet que compétences techniques. (Niveau Master 1)"
+        tagline: "Application de gestion des devis destinée à des commerciaux."
 
       - title: Plaquettes
         link: "#"
-        tagline: "Application de comptage de plaquettes d'usinage grâce à des librairies de reconnaissance d'image."
+        tagline: "Application de comptage de plaquettes d'usinage grâce."
 
 skills:
     title: Skills &amp; Proficiency
