@@ -64,17 +64,18 @@ education:
         Baccalauréat Science et Technologie de l'Industrie et du Développement Durable (STID2)
         Mention 'Bien'.
         Thionville, Moselle.
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BTS
+      university: Lycée Grandmont
+      time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Brevet de Technicien Supérieur en Systèmes Numériques option Informatique et Réseaux.
+        Tours, Indre-et-Loire.
+    - degree: BTS
+      university: CESI École Supérieure de l’Alternance
+      time: 2018 - 2020
+      details: |
+        RIL - Responsable en Ingénierie des Logiciels.
+        Bordeaux, Gironde.
 experiences:
     - role: Lead Developer
       time: 2015 - Present
