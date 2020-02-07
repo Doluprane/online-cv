@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lucas Mayerus
@@ -50,12 +50,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Fan d'informatique et d'électronique depuis mon plus jeune âge,
+      j'ai décidé de transformer ma passion en mon métier !
 education:
     - degree: Baccalauréat
       university: Lycée Polyvalent La Briquerie
@@ -119,7 +115,7 @@ experiences:
 #        authors: Edgar T. Irons
 #        conference: "Comm. ACM 4 (1961), 51–55"
 projects:
-    title: Projects
+    title: Projets
     intro: >
       Projets que j'ai eu l'occasion de développer pendant mes années d'études.
     assignments:
@@ -131,9 +127,9 @@ projects:
         link: "#"
         tagline: "Application de gestion des devis destinée à des commerciaux, projet beaucoup plus axé gestion de projet que compétences techniques. (Niveau Master 1)"
 
-      - title: Tempo
+      - title: Plaquettes
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Application de comptage de plaquettes d'usinage grâce à des librairies de reconnaissance d'image."
 
 skills:
     title: Skills &amp; Proficiency
