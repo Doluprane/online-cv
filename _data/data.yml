@@ -83,38 +83,17 @@ experiences:
       company: Sandvik Coromant, Région de Tours (Indre-et-Loire)
       details: |
         CDD de 2 mois à la fin de mon BTS afin de finaliser le projet final en entreprise.
-          - Bullet point
     - role: Stagiaire
       time: Mai 2017 - Juin 2017
       company: Groupe LDLC, Thionville (Moselle)
       details: |
         Stage permettant de valider ma première année de BTS.
 
-#publications:
-#    title: Publications
-#    intro: |
-#      You can list your publications in this section. Lorem ipsum dolor sit
-#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#      bibendum fringilla a eu lectus.
-#    papers:
-#      - title: The Art of Computer Programming
-#        link: "#"
-#        authors: Donald E. Knuth
-#        conference: Addison-Wesley, 1968
-#
-#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#        link: "#"
-#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-#
-#      - title: A syntax directed compiler for Algol 60
-#        link: "#"
-#        authors: Edgar T. Irons
-#        conference: "Comm. ACM 4 (1961), 51–55"
+
 projects:
     title: Projets
-    intro: >
-      Projets que j'ai eu l'occasion de développer pendant mes années d'études.
+    #intro: >
+    #  Projets que j'ai eu l'occasion de développer pendant mes années d'études.
     assignments:
       - title: Auton'home
         link: "#hook"
@@ -129,7 +108,7 @@ projects:
         tagline: "Application de comptage de plaquettes d'usinage grâce."
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Compétences
 
     toolset:
       - name: Python & Django
