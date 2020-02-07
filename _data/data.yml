@@ -111,17 +111,22 @@ skills:
     title: Compétences
 
     toolset:
-      - name: C/C++
+      - name: SQL
+        level: 70%
+      
+      - name: C/C++ (Standard & Framework Qt)
         level: 60%
 
       - name: C#.NET / VB.NET
         level: 50%
 
       - name: VB6
-        level: 25%
+        level: 20%
 
-      - name: SQL
-        level: 70%
+      - name: Java (Standard & JavaFX)
+        level: 20%
+
+      - name: Logiciels: Visual Studio, Qt Creator, Eclipse, Atom...
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
