@@ -53,6 +53,18 @@ career-profile:
       Fan d'informatique et d'électronique depuis mon plus jeune âge,
       j'ai décidé de transformer ma passion en mon métier !
 education:
+    - degree: Responsable en Ingénierie des Logiciels
+      university: CESI École Supérieure de l’Alternance
+      time: 2018 - 2020
+      details: |
+        Titre enregistré au RNCP (RNCP14506) Niveau 6
+        Bordeaux, Gironde.
+    - degree: BTS
+      university: Lycée Grandmont
+      time: 2016 - 2018
+      details: |
+        Brevet de Technicien Supérieur en Systèmes Numériques option Informatique et Réseaux.
+        Tours, Indre-et-Loire.
     - degree: Baccalauréat
       university: Lycée Polyvalent La Briquerie
       time: 2014 - 2016
@@ -60,18 +72,7 @@ education:
         Baccalauréat Science et Technologie de l'Industrie et du Développement Durable (STI2D)
         Mention 'Bien'.
         Thionville, Moselle.
-    - degree: BTS
-      university: Lycée Grandmont
-      time: 2016 - 2018
-      details: |
-        Brevet de Technicien Supérieur en Systèmes Numériques option Informatique et Réseaux.
-        Tours, Indre-et-Loire.
-    - degree: Responsable en Ingénierie des Logiciels
-      university: CESI École Supérieure de l’Alternance
-      time: 2018 - 2020
-      details: |
-        Titre enregistré au RNCP (RNCP14506) Niveau 6
-        Bordeaux, Gironde.
+
 experiences:
     - role: Ingénieur en développement logiciels (junior)
       time: Septembre 2018 - Aujourd'hui
