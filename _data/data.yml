@@ -78,7 +78,7 @@ experiences:
       time: Septembre 2018 - Aujourd'hui
       company: Cegedim Logiciels Medicaux, Région de Bordeaux (Gironde)
       details: |
-        Alternance
+        Alternance, service migration des données.
     - role: Développeur logiciels
       time: Juin 2018 - Juillet 2018
       company: Sandvik Coromant, Région de Tours (Indre-et-Loire)
@@ -112,13 +112,16 @@ skills:
     title: Compétences
 
     toolset:
+      - name: Programmation Orientée Objet
+        level: 65%
+
       - name: SQL
-        level: 70%
+        level: 60%
       
       - name: C/C++ (Standard & Framework Qt)
         level: 60%
 
-      - name: C#.NET / VB.NET
+      - name: C# (.NET Framework)
         level: 50%
 
       - name: VB6
