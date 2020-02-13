@@ -4,7 +4,7 @@
 
 sidebar:
     #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Lucas Mayerus
@@ -57,20 +57,20 @@ education:
       university: CESI École Supérieure de l’Alternance
       time: 2018 - 2020
       details: |
-        Titre enregistré au RNCP (RNCP14506) Niveau 6
+        Titre enregistré au RNCP (RNCP14506) Niveau 6.<br>
         Bordeaux, Gironde.
     - degree: BTS
       university: Lycée Grandmont
       time: 2016 - 2018
       details: |
-        Brevet de Technicien Supérieur en Systèmes Numériques option Informatique et Réseaux.
+        Brevet de Technicien Supérieur en Systèmes Numériques option Informatique et Réseaux.<br>
         Tours, Indre-et-Loire.
     - degree: Baccalauréat
       university: Lycée Polyvalent La Briquerie
       time: 2014 - 2016
       details: |
         Baccalauréat Science et Technologie de l'Industrie et du Développement Durable (STI2D)<br>
-        Mention 'Bien'.
+        Mention 'Bien'.<br>
         Thionville, Moselle.
 
 experiences:
