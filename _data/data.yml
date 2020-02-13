@@ -9,12 +9,12 @@ sidebar:
     # Profile information
     name: Lucas Mayerus
     tagline: Developpeur Logiciels
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: lucas.paolo57@gmail.com
     phone: +33 7 71 07 10 45
-    website: lucaspaul.eu #do not add http://
+    #website: lucaspaul.eu #do not add http://
     linkedin: lmayerus
     #github: sharu725
     #gitlab:
@@ -51,9 +51,9 @@ career-profile:
     title: Profil
     summary: |
       Fan d'informatique et d'électronique depuis mon plus jeune âge,
-      j'ai décidé de transformer ma passion en mon métier !
+      j'ai décidé d'en faire mon métier à temps plein !
 education:
-    - degree: Responsable en Ingénierie des Logiciels
+    - degree: Responsable en Ingénierie des Logiciels (en cours)
       university: CESI École Supérieure de l’Alternance
       time: 2018 - 2020
       details: |
@@ -129,5 +129,5 @@ skills:
 
       - name: Visual Studio, Qt Creator, Eclipse, Atom...
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
