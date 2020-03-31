@@ -16,6 +16,7 @@ sidebar:
     phone: +33 7 71 07 10 45
     #website: lucaspaul.eu #do not add http://
     linkedin: lmayerus
+    city: Tours & Bordeaux
     #github: sharu725
     #gitlab:
     #bitbucket:
@@ -50,7 +51,7 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      Fan d'informatique et d'électronique depuis mon plus jeune âge,
+      Fan d'informatique et d'électronique depuis mon plus jeune âge,<br>
       j'ai décidé d'en faire mon métier à temps plein !
 education:
     - degree: Responsable en Ingénierie des Logiciels (en cours)
