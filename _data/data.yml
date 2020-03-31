@@ -92,22 +92,18 @@ experiences:
         Stage permettant de valider ma première année de BTS.
 
 
-# projects:
-    # title: Projets
-    #intro: >
-    # Projets que j'ai eu l'occasion de développer pendant mes années d'études.
-    # assignments:
-      # - title: Auton'home
-        # link: "#hook"
-        # tagline: "Une maison connectée et intelligente pour un faible budget !"
+ projects:
+     title: Projets
+    intro: >
+     Projets que j'ai eu l'occasion de développer pendant mes années d'études.
+     assignments:
+       - title: Auton'home
+         link: "#hook"
+         tagline: "Une maison connectée et intelligente pour un faible budget !"
 
-      # - title: Madera
-        # link: "#"
-        # tagline: "Application de gestion des devis destinée à des commerciaux."
-
-      # - title: Plaquettes
-        # link: "#"
-        # tagline: "Application de comptage de plaquettes d'usinage grâce."
+       - title: Plaquettes
+         link: "#"
+         tagline: "Application de comptage de plaquettes d'usinage grâce."
 
 skills:
     title: Compétences
