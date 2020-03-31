@@ -94,8 +94,10 @@ experiences:
 
  projects:
      title: Projets
-    intro: 
-     Projets que j'ai eu l'occasion de développer pendant mes années d'études.
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
      assignments:
        - title: Auton'home
          link: "#hook"
