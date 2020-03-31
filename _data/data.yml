@@ -92,7 +92,20 @@ experiences:
         Stage permettant de valider ma première année de BTS.
 
 
+projects:
+    title: Projets
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     assignments:
+       - title: Auton'home
+         link: "#hook"
+         tagline: "Une maison connectée et intelligente pour un faible budget !"
 
+       - title: Plaquettes
+         link: "#"
+         tagline: "Application de comptage de plaquettes d'usinage grâce."
 
 skills:
     title: Compétences
