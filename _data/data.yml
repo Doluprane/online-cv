@@ -116,7 +116,7 @@ skills:
       - name: Programmation Orientée Objet
         level: 65%
 
-      - name: SQL
+      - name: SQL (Oracle, PostgreSQL, MySQL, Access)
         level: 60%
       
       - name: C/C++ (Standard & Framework Qt)
