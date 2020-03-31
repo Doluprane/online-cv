@@ -101,8 +101,14 @@ projects:
     assignments:
       - title: Auton'home
         link: "#hook"
-        tagline: "Projet développé lors de mon année de Terminale STI2D, il s'agit d'une maison connectée et intelligente. Elle est équipée de plusieurs dispositifs: détection des intrusions ou incendies
-        , contrôle de périphériques tels quel l'ouverture et fermeture électrique des volets, l'allumage et l'extinction du chauffage ou bien des luminaires. 
+        tagline: "Projet développé lors de mon année de Terminale STI2D, il s'agit d'une maison connectée et intelligente. Elle est équipée de plusieurs dispositifs: détection des intrusions ou incendies, 
+        contrôle de périphériques tels quel l'ouverture et fermeture électrique des volets, l'allumage et l'extinction du chauffage ou bien des luminaires. 
+        La maison était contrôlable depuis une interface Web et une application pour les systèmes mobiles Android."
+
+      - title: SANDVIK - Comptage des plaquettes
+        link: "#hook"
+        tagline: "Projet développé lors de mon année de Terminale STI2D, il s'agit d'une maison connectée et intelligente. Elle est équipée de plusieurs dispositifs: détection des intrusions ou incendies, 
+        contrôle de périphériques tels quel l'ouverture et fermeture électrique des volets, l'allumage et l'extinction du chauffage ou bien des luminaires. 
         La maison était contrôlable depuis une interface Web et une application pour les systèmes mobiles Android."
 
 skills:
