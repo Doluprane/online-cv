@@ -96,7 +96,7 @@ projects:
     title: Projets
     intro: >
     assignments:
-      - title: Auton'home
+      - title: <a href="https://drive.google.com/file/d/0B3uYujTFfNGxdWd0SVJLNXVyaDA/view?usp=sharing" target="_blank" rel="nofollow">Auton'home</a>
         link: "#hook"
         tagline: "Projet développé lors de mon année de Terminale STI2D, il s'agit d'une maison connectée et intelligente. Elle est équipée de plusieurs dispositifs: détection des intrusions ou incendies, 
         contrôle de périphériques tels quel l'ouverture et fermeture électrique des volets, l'allumage et l'extinction du chauffage ou bien des luminaires. 
