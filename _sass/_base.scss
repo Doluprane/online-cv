@@ -66,7 +66,6 @@ p {
         font-weight: 400;
         margin-top: 0;
         margin-bottom: 0;
-        text-align: justify;
     }
     .profile {
         margin-bottom: 15px;
@@ -213,6 +212,10 @@ p {
         .item {
             margin-bottom: 15px;
         }
+    }
+
+    .project-tagline {
+        text-align: justify;
     }
 
     .publication-title {
