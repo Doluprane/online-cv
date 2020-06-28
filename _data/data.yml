@@ -131,6 +131,7 @@ skills:
         level: 20%
 
       - name: Visual Studio, Qt Creator, Eclipse, Atom...
+        level: 0%
 
 skillswoutbar:
     #title: Compétences
