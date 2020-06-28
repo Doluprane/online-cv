@@ -128,9 +128,9 @@ skills:
         level: 20%
 
       - name: Java (Standard & JavaFX)
-        level: 20%<br>
+        level: 20%
 
-      - name: Visual Studio, Qt Creator, Eclipse, Atom...
+      - name: <br>Visual Studio, Qt Creator, Eclipse, Atom...
         level: 0%
 
 skillswoutbar:
