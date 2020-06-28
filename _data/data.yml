@@ -109,7 +109,7 @@ projects:
         L'application utilise la librairie conçue et développée par Intel: OpenCV."
 
 skills:
-    title: Compétences
+    title: Compétences "HARD SKILLS"
 
     toolset:
       - name: Programmation Orientée Objet
@@ -133,7 +133,7 @@ skills:
       - name: Visual Studio, Qt Creator, Eclipse, Atom...
 
 skillswoutbar:
-    title: Compétences
+    #title: Compétences
 
     toolset:
       - name: Visual Studio, Qt Creator, Eclipse, Atom...
