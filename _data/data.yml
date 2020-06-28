@@ -124,13 +124,13 @@ skills:
       - name: C# (.NET Framework)
         level: 50%
 
-      - name: VB6
+      - name: Visual Basic 6
         level: 20%
 
       - name: Java (Standard & JavaFX)
         level: 20%
 
-      - name: <br>Visual Studio, Qt Creator, Eclipse, Atom...
+      - name: '<br> IDE: Visual Studio, Qt Creator, Eclipse, Atom, Notepad++, SQL Developer, pgAdmin etc...'
         level: 0%
 
 skillswoutbar:
