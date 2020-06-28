@@ -96,15 +96,18 @@ projects:
     title: Projets
     intro: >
     assignments:
-      - title: Auton'home [<a href="https://drive.google.com/file/d/1JxmUPYVcaXCxqjFNVIwocwyD5ZSmzzgM/view?usp=sharing" target="_blank" rel="nofollow">Support de présentation oral</a>]
-        tagline: "Projet développé lors de mon année de Terminale STI2D, il s'agit d'une maison connectée et intelligente. Elle est équipée de plusieurs dispositifs: détection des intrusions ou incendies, 
-        contrôle de périphériques tels quel l'ouverture et fermeture électrique des volets, l'allumage et l'extinction du chauffage ou bien des luminaires. 
-        La maison était contrôlable depuis une interface Web et une application pour les systèmes mobiles Android."
 
-      - title: SANDVIK - Comptage des plaquettes [<a href="https://drive.google.com/file/d/106dfCJubenlub-uSZBDYku7-8Gu13Xtm/view?usp=sharing" target="_blank" rel="nofollow">Rapport</a> / <a href="https://drive.google.com/file/d/1oSWT4ywBL4BhbFgzWSKKLh7UD0wGgSJX/view?usp=sharing" target="_blank" rel="nofollow">Support de présentation oral</a>]
+      - title: Projet MADERA (M1 CESI) [<a href="https://drive.google.com/file/d/1HK3_Jc6B5nurBachxijt1NmYv5H1UgEF/view?usp=sharing" target="_blank" rel="nofollow">Rapport</a>]
+
+      - title: SANDVIK - Comptage des plaquettes (BTS) [<a href="https://drive.google.com/file/d/106dfCJubenlub-uSZBDYku7-8Gu13Xtm/view?usp=sharing" target="_blank" rel="nofollow">Rapport</a> / <a href="https://drive.google.com/file/d/1oSWT4ywBL4BhbFgzWSKKLh7UD0wGgSJX/view?usp=sharing" target="_blank" rel="nofollow">Support de présentation oral</a>]
         tagline: "Projet développé lors de ma dernière année de BTS SN, il s'agit d'une machine permettant de compter automatiquement des plaquettes en sortie de chaîne au sein d'une usine.
         Elle permet de prendre une photo, de compter les plaquettes, d'enregistrer les résultats sur une base de données et d'imprimer un compte rendu de fin de comptage sur une imprimante de type Dymo.
         L'application utilise la librairie conçue et développée par Intel: OpenCV."
+
+      - title: Auton'home (Tle) [<a href="https://drive.google.com/file/d/1JxmUPYVcaXCxqjFNVIwocwyD5ZSmzzgM/view?usp=sharing" target="_blank" rel="nofollow">Support de présentation oral</a>]
+        tagline: "Projet développé lors de mon année de Terminale STI2D, il s'agit d'une maison connectée et intelligente. Elle est équipée de plusieurs dispositifs: détection des intrusions ou incendies, 
+        contrôle de périphériques tels quel l'ouverture et fermeture électrique des volets, l'allumage et l'extinction du chauffage ou bien des luminaires. 
+        La maison était contrôlable depuis une interface Web et une application pour les systèmes mobiles Android."
 
 skills:
     title: Compétences "HARD SKILLS"
