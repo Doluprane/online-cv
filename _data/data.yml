@@ -130,7 +130,7 @@ skills:
         level: 20%
 
       - name: Java (Standard & JavaFX)
-        level: 20%
+        level: 1%
 
       - name: '<br><br> IDE: Visual Studio, Qt Creator, Eclipse, Atom, Notepad++, SQL Developer, pgAdmin etc...'
         level: 0%
