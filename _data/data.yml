@@ -126,7 +126,7 @@ skills:
       - name: C# (.NET Framework)
         level: 50%
 
-      - name: Visual Basic 6 <progress id="file" max="100" value="20"> 20% </progress>
+      - name: Visual Basic 6
         level: 20%
 
       - name: Java (Standard & JavaFX)
