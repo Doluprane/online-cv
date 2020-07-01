@@ -118,7 +118,7 @@ skills:
         level: 65%
 
       - name: SQL (Oracle, PostgreSQL, MySQL, Access)
-        level: 60%
+        level: 60
       
       - name: C/C++ (Standard & Framework Qt)
         level: 60%
@@ -127,7 +127,7 @@ skills:
         level: 50%
 
       - name: Visual Basic 6
-        level: 20%
+        level: 20
 
       - name: Java (Standard & JavaFX)
         level: 20%
