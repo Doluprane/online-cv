@@ -115,22 +115,22 @@ skills:
 
     toolset:
       - name: Programmation Orientée Objet
-        level: 65
+        level: 65%
 
       - name: SQL (Oracle, PostgreSQL, MySQL, Access)
-        level: 60
+        level: 60%
       
       - name: C/C++ (Standard & Framework Qt)
-        level: 60
+        level: 60%
 
       - name: C# (.NET Framework)
-        level: 50
+        level: 50%
 
       - name: Visual Basic 6
-        level: 20
+        level: 20%
 
       - name: Java (Standard & JavaFX)
-        level: 20
+        level: 20%
 
       - name: '<br><br> IDE: Visual Studio & Visual Studio Code, Qt Creator, Eclipse, Atom, Notepad++, SQL Developer, pgAdmin etc...'
         level: 0%
