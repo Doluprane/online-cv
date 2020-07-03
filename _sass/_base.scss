@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6  {
 
 progress {
     width: 100%;
-    color: lighten($theme-color, 15%);
+    background: lighten($theme-color, 15%);
 }
 
 a {
