@@ -15,10 +15,10 @@ h1, h2, h3, h4, h5, h6  {
 
 progress {
     width: 100%;
-    -moz-progress-bar { background: blue; }
-    -webkit-progress-value { background: blue; }
-    -webkit-progress-value { background: blue; }
-    color: blue;
+    -moz-progress-bar { background: darken($theme-color, 15%); }
+    -webkit-progress-value { background:darken($theme-color, 15%); }
+    -webkit-progress-value { background:darken($theme-color, 15%); }
+    color: darken($theme-color, 15%);
 }
 
 a {
