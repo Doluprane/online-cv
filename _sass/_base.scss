@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6  {
 
 progress {
     width: 100%;
-    background-image: linear-gradient(lighten($theme-color, 15%), lighten($theme-color, 15%));
+    background-image: linear-gradient($theme-color, $theme-color);
 }
 
 a {
