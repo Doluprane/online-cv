@@ -6,7 +6,7 @@
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
-    </span>
+    </span> 
     {{ skills.title }}
   </h2>
 
@@ -17,11 +17,11 @@
 
       <h3 class="level-title">{{ skill.name }}</h3>
       {% if skill.level != "0%" %}  
-      <!--<div class="level-bar">-->
+      <div class="level-bar">
         <progress max="100" value="{{ skill.level | replace:'%', '' }}"></progress>
         <!--<div class="level-bar-inner" data-level="{{ skill.level }}"><!-- data-level="{{ skill.level }}">      <progress max="100" value="{{ skill.level }}"></progress>     -->
 
-        <!--</div>-->
+        </div>
 
 
       <!--</div><!--//level-bar-->
