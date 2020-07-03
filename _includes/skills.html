@@ -21,7 +21,7 @@
         <div class="level-bar-inner" data-level="{{ skill.level }}"><!-- data-level="{{ skill.level }}">      <progress max="100" value="{{ skill.level }}"></progress>     -->
 
         </div>
-        <progress class="level-bar-inner" max="100" value="{{ skill.level | replace:'%', '' }}"></progress>
+        <progress class="level-bar" max="100" value="{{ skill.level | replace:'%', '' }}"></progress>
 
       </div><!--//level-bar-->
       {% endif %}
