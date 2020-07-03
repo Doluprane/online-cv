@@ -17,9 +17,15 @@ progress {
     width: 100%;
 }
 
-progress::-webkit-progress-value  {
+progress ::-webkit-progress-value  {
 	/* Gradient background with Stripes */
     background-image: linear-gradient(#788ea6, #788ea6);
+}
+
+progress[value]::-webkit-progress-bar {
+	background-color: whiteSmoke;
+	border-radius: 3px;
+	box-shadow: 0 2px 3px rgba(0,0,0,.5) inset;
 }
 
 a {
