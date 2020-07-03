@@ -19,9 +19,9 @@
       {% if skill.level != "0%" %}  
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}"><!-- data-level="{{ skill.level }}">      <progress max="100" value="{{ skill.level }}"></progress>     -->
-
+          <progress max="100" value="{{ skill.level | replace:'%', '' }}"></progress>
         </div>
-        <progress max="100" value="{{ skill.level | replace:'%', '' }}"></progress>
+
 
       </div><!--//level-bar-->
       {% endif %}
