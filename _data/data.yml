@@ -97,6 +97,8 @@ projects:
     intro: >
     assignments:
 
+      - title: MLMDATAEXTRACTOR (M1 CEGEDIM LOGICIELS MEDICAUX)
+
       - title: Projet MADERA (M1 CESI) [<a href="https://drive.google.com/file/d/1HK3_Jc6B5nurBachxijt1NmYv5H1UgEF/view?usp=sharing" target="_blank" rel="nofollow">Rapport</a>]
         tagline: Projet développé lors de ma dernière année de RIL à CESI. L'objectif était de gérer un projet complet (rédaction du cahier des charges, conception, développement et déploiement de l'application) pour l'entreprise Madera qui souhaite revoir son processus de production des devis.
 
