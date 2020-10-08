@@ -30,7 +30,7 @@ sidebar:
         level: Natif
 
       - idiom: Anglais
-        level: TOEIC L&R: 845
+        level: TOEIC: 845
 
     interests:
       - item: Nouvelles technologies
@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      Fan d'informatique et d'électronique depuis mon plus jeune âge,<br>
+      Passionné d'informatique et d'électronique depuis mon plus jeune âge,<br>
       j'ai décidé d'en faire mon métier à temps plein !
 education:
     - degree: Manager en Systèmes d'Information
