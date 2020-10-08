@@ -54,7 +54,13 @@ career-profile:
       Fan d'informatique et d'électronique depuis mon plus jeune âge,<br>
       j'ai décidé d'en faire mon métier à temps plein !
 education:
-    - degree: Responsable en Ingénierie des Logiciels (en cours)
+    - degree: Manager en Systèmes d'Information
+      university: CESI École Supérieure de l’Alternance
+      time: 2020 - 2021
+      details: |
+        Titre enregistré au RNCP (RNCP11554) Niveau 7.<br>
+        Le Mans, Sarthe.
+    - degree: Responsable en Ingénierie des Logiciels
       university: CESI École Supérieure de l’Alternance
       time: 2018 - 2020
       details: |
