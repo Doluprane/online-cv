@@ -96,11 +96,11 @@ experiences:
       company: <a href="https://www.linkedin.com/company/sandvik-coromant/" target="_blank" rel="nofollow">Sandvik Coromant</a>, Région de Tours (Indre-et-Loire)
       details: |
         CDD de 2 mois à la fin de mon BTS afin de déployer le projet final en entreprise.
-    - role: Stagiaire
-      time: Mai 2017 - Juin 2017
-      company: <a href="https://www.linkedin.com/company/ldlc/" target="_blank" rel="nofollow">Groupe LDLC</a>, Thionville (Moselle)
-      details: |
-        Stage permettant de valider ma première année de BTS.
+    #- role: Stagiaire
+    #  time: Mai 2017 - Juin 2017
+    #  company: <a href="https://www.linkedin.com/company/ldlc/" target="_blank" rel="nofollow">Groupe LDLC</a>, Thionville (Moselle)
+    #  details: |
+    #    Stage permettant de valider ma première année de BTS.
 
 
 projects:
