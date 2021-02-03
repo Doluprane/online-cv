@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Lucas Mayerus
-    tagline: Developpeur Logiciels
+    tagline: Ingénieur DevOps
     #avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: lucas.paolo57@gmail.com
+    email: contact@lucaspaul.eu
     phone: +33 7 71 07 10 45
     website: lucaspaul.eu #do not add http://
     linkedin: lmayerus
@@ -85,7 +85,7 @@ experiences:
       time: Septembre 2020 - Aujourd'hui
       company: <a href="https://www.linkedin.com/company/cegedim-clm/" target="_blank" rel="nofollow">Cegedim Logiciels Medicaux</a>, Vendôme (Loir-et-Cher)
       details: |
-        Alternance, service DevOPS / ProdOPS.
+        Alternance, service DevOPS.
     - role: Ingénieur en développement logiciels (junior)
       time: Septembre 2018 - Septembre 2020
       company: <a href="https://www.linkedin.com/company/cegedim-clm/" target="_blank" rel="nofollow">Cegedim Logiciels Medicaux</a>, Région de Bordeaux (Gironde)
