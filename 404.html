@@ -60,9 +60,18 @@ h1 small {
 .red {
 	background: url(https://lucaspaul.eu/assets/images/robot.png) no-repeat center center;
 	background-size: 130% 100%;
+	animation: rotation 0.5s infinite alternate;
 	opacity: 1;
 }
 
+@keyframes red {
+  from {
+    transform: rotate(-5deg);
+  }
+  to {
+    transform: rotate(5deg);
+  }
+}
 
 @media only screen and (min-width: 780px) {
   .site {
