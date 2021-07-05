@@ -108,7 +108,10 @@ projects:
     intro: >
     assignments:
 
-      - title: MLMDATAEXTRACTOR (M1 CEGEDIM LOGICIELS MEDICAUX)
+      - title: MLMDATAEXTRACTOR (M1 CEGEDIM LOGICIELS MEDICAUX) [<a href="https://drive.google.com/file/d/1Lsy7BDSHJI3givP1xyzyhrsmduEvdpPm/view?usp=sharing" target="_blank" rel="nofollow">Rapport</a>
+	tagline: "Projet développé lors de ma dernière année de RIL, il s'agit de la création d'un logiciel permettant de générer des exports en format CSV en partant d'une base de données médicales. Les objectifs sont
+	de proposer un logiciel totalement modulaire grâce à des fichiers de configuration, de gagner du temps lors de l'exécution de certaines tâches et enfin de réduire les erreurs humaines qui pourraient survenir.
+
 
       - title: SANDVIK - Comptage des plaquettes (BTS) [<a href="https://drive.google.com/file/d/106dfCJubenlub-uSZBDYku7-8Gu13Xtm/view?usp=sharing" target="_blank" rel="nofollow">Rapport</a> / <a href="https://drive.google.com/file/d/1oSWT4ywBL4BhbFgzWSKKLh7UD0wGgSJX/view?usp=sharing" target="_blank" rel="nofollow">Support de présentation oral</a>]
         tagline: "Projet développé lors de ma dernière année de BTS SN, il s'agit d'une machine permettant de compter automatiquement des plaquettes en sortie de chaîne au sein d'une usine.
@@ -125,7 +128,10 @@ skills:
 
     toolset:
       - name: Programmation Orientée Objet
-        level: 65%
+        level: 70%
+
+      - name: Rundeck
+        level: 70%
 
       - name: SQL (Oracle, PostgreSQL, MySQL, Access)
         level: 60%
@@ -134,6 +140,9 @@ skills:
         level: 60%
 
       - name: C# (.NET Framework)
+        level: 50%
+
+      - name: Shell / PowerShell (Unix & Windows)
         level: 50%
 
       - name: Visual Basic 6
