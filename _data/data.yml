@@ -144,6 +144,9 @@ skills:
       - name: Shell / PowerShell (Unix & Windows)
         level: 50%
 
+      - name: Jenkins & Artifactory
+        level: 40%
+
       - name: Visual Basic 6
         level: 20%
 
